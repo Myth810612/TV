@@ -1,0 +1,38 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="恩施综合" tvg-logo="https://live.fanmingming.com/tv/恩施综合.png" group-title="湖北频道",恩施综合
+https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
+#EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://live.fanmingming.com/tv/恩施文旅.png" group-title="湖北频道",恩施文旅
+https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
+#EXTINF:-1 tvg-name="巴东综合" tvg-logo="https://live.fanmingming.com/tv/巴东综合.png" group-title="湖北频道",巴东综合
+http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3522.m3u8?auth_key=4860354782-0-0-0bc026e554be331e11f9118a5507dbd6&extra_key=du5v5yekM-ggopdZ_sngtTZ65Uth9WDHICSAwr25ENDQIdlV3Yd2lHeLSlp5B8KLBoWG0nmJUj1QO75vWPg_oNJJLOYxRTOV57psEWQI4qKLGvWzL9PBysSluKuq-Ux9lJltJgQb5lWNdWOKYZiLcxSGG_008O5kq4mJC8KOxeo
+#EXTINF:-1 tvg-name="宜昌综合" tvg-logo="https://live.fanmingming.com/tv/宜昌综合.png" group-title="湖北频道",宜昌综合
+https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8#@kdsvod://hbyctv1://1#@htmlplay://http://www.3xgd.com/live/1.html
+#EXTINF:-1 tvg-name="宜昌旅游生活" tvg-logo="https://live.fanmingming.com/tv/宜昌旅游生活.png" group-title="湖北频道",宜昌旅游生活
+https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1#@kdsvod://hbyctv1://2#@htmlplay://http://www.3xgd.com/live/2.html
+#EXTINF:-1 tvg-name="亚洲影院" tvg-logo="https://live.fanmingming.com/tv/亚洲影院.png" group-title="湖北频道",亚洲影院
+http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
+#EXTINF:-1 tvg-name="欧美影院" tvg-logo="https://live.fanmingming.com/tv/欧美影院.png" group-title="湖北频道",欧美影院
+http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
+#EXTINF:-1 tvg-name="星爷电影" tvg-logo="https://live.fanmingming.com/tv/星爷电影.png" group-title="湖北频道",星爷电影
+http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1 tvg-name="欧美电影" tvg-logo="https://live.fanmingming.com/tv/欧美电影.png" group-title="湖北频道",欧美电影
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1 tvg-name="华语电影" tvg-logo="https://live.fanmingming.com/tv/华语电影.png" group-title="湖北频道",华语电影
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+#EXTINF:-1 tvg-name="4K影院" tvg-logo="https://live.fanmingming.com/tv/4K影院.png" group-title="湖北频道",4K影院
+http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
+#EXTINF:-1 tvg-name="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="湖北频道",华数4K
+http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="湖北频道",纯享4K
+http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
+#EXTINF:-1 tvg-name="咪咕音乐-4K" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐-4K.png" group-title="湖北频道",咪咕音乐-4K
+http://223.105.252.60/PLTV/4/224/3221228794/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="湖北频道",求索动物
+http://39.134.136.161:6610/000000001000/6000000002000010046/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000010046
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="湖北频道",求索生活
+http://39.134.136.161:6610/000000001000/6000000002000003382/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000003382
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="湖北频道",求索科学
+http://39.134.136.161:6610/000000001000/6000000002000032344/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032344
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="湖北频道",求索纪录
+http://39.134.136.161:6610/000000001000/6000000002000032052/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
+
