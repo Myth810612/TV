@@ -35,9 +35,9 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4K 超高清
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=wywt2c4b4wnr3hi3" group-title="央视频道",CCTV-4K 超高清
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=wywt2c4b4wnr3hi3" group-title="央视频道",CCTV8K
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=wywt2c4b4wnr3hi3" group-title="央视频道",CCTV8K 超高清
 http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 欧洲
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId=
@@ -1241,7 +1241,7 @@ http://39.134.136.161:6610/000000001000/6721180114242078041/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/4708717482586167604/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4708717482586167604
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="移动ITV",黑龙江卫视
 http://39.134.136.161:6610/000000001000/8791922236512824525/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8791922236512824525
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="移动ITV",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="移动ITV", 东南卫视
 http://39.134.136.161:6610/000000001000/8777806939525783846/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8777806939525783846
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="移动ITV",云南卫视
 http://39.134.136.161:6610/000000001000/6810887655606226378/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6810887655606226378
@@ -1259,13 +1259,13 @@ http://39.134.136.161:6610/000000001000/6000000003000023702/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/2000000004000000016/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000016
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="移动ITV",四川卫视
 http://39.134.136.161:6610/000000001000/8765503395601010087/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8765503395601010087
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="移动ITV",宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="移动ITV", 宁夏卫视
 http://39.134.136.161:6610/000000001000/5793735126731753680/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5793735126731753680
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="移动ITV",山西卫视
 http://39.134.136.161:6610/000000001000/7582242998896540942/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7582242998896540942
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="移动ITV",广西卫视
 http://39.134.136.161:6610/000000001000/5509594920701152353/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5509594920701152353
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="移动ITV",新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="移动ITV", 新疆卫视
 http://39.134.136.161:6610/000000001000/6986657152785429375/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6986657152785429375
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="移动ITV",河北卫视
 http://39.134.136.161:6610/000000001000/7314569012827301115/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7314569012827301115
@@ -1280,14 +1280,14 @@ http://39.134.136.161:6610/000000001000/7884242846753128038/index.m3u8?livemode=
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="移动ITV",湖南金鹰卡通
 http://39.134.136.161:6610/000000001000/6000000003000016791/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000016791
 #EXTINF:-1 tvg-name="潇湘电影" tvg-logo="https://live.fanmingming.com/tv/潇湘电影.png" group-title="移动ITV",潇湘电影
-http://39.134.136.161:6610/000000001000/xiaoxiangdy/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=xiaoxiangdy
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="移动ITV",甘肃卫视
+http://39.134.136.161:6610/000000001000/xiaofangdy/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=xiaofangdy
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="移动ITV", 甘肃卫视
 http://39.134.136.161:6610/000000001000/6688526389678198988/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6688526389678198988
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="移动ITV",西藏卫视
 http://39.134.136.161:6610/000000001000/7179022603798868495/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7179022603798868495
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="移动ITV",贵州卫视
-http://39.134.136.161:6610/000000001000/7043811073576958573/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7043811073576958573
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="移动ITV",陕西卫视
+http://39.134.136.161:6610/000000001000/704381​​1073576958573/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=704381​​1073576958573
+#EXTINF:-1 tvg-name="卫视" tvg-logo="https://live.fanmingming.com陕西卫视/tv/卫视.png" group-title="移动ITV",陕西卫视
 http://39.134.136.161:6610/000000001000/6194965711565916623/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6194965711565916623
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="移动ITV",青海卫视
 http://39.134.136.161:6610/000000001000/6399324389404552555/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6399324389404552555
