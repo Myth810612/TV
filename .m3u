@@ -1507,122 +1507,120 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000023/index.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视高清",青海卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8
-#EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://127.0.0.1/logo/CCTV1综合.png" group-title="央视",cctv2财经
+#EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://127.0.0.1/logo/CCTV1综合.png" group-title="咪咕央视",CCTV1综合
 https://migu.freetv.top/migu/608807420.m3u8?migutoken=c1192dad935ef587c5d737d887fbe777de92ecfa111845b493c14304a249ce2c6bc60af7ae1637c37713e6d20fe49eb7677e145fa4caecea75b2245a17305b94f4a27ed2d5363c768b188ae394
-#EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://127.0.0.1/logo/CCTV2财经.png" group-title="央视",cctv2财经
+#EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://127.0.0.1/logo/CCTV2财经.png" group-title="咪咕央视",cctv2财经
 https://migu.freetv.top/migu/631780532.m3u8?migutoken=7e3c5b7f272c41132b393bae8807daa9a60ad475e20ec11049644a34a242015a2198a69baff8c2c775467c035c6839a0f263a4332f0fe611fc7c111444b5ffc1880b804228be2b34ddfdf773eb
-#EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://127.0.0.1/logo/CCTV3综艺.png" group-title="央视",cctv3综艺
+#EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://127.0.0.1/logo/CCTV3综艺.png" group-title="咪咕央视",cctv3综艺
 https://migu.freetv.top/migu/624878271.m3u8?migutoken=abc42bc62df24ebb5d9f1233071811a3d159f3cd942984fcf863c4b4592fdb2497ca7434ad84a782b0bba6398e3d50b8832bc95b1fb9e544642140379c457763eb3b967f4416ce76a905a5daf2
-#EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://127.0.0.1/logo/CCTV4中文国际.png" group-title="央视",cctv4中文国际
+#EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://127.0.0.1/logo/CCTV4中文国际.png" group-title="咪咕央视",cctv4中文国际
 https://migu.freetv.top/migu/631780421.m3u8?migutoken=92d4f277eafd35648086d5700b9f8ae108c74c5714f4ae17c6dd056825e8c2e7af0e76008d1ac2beb2b4ca6e134e7ee5c4ccb0b4582df504974316366dfe1cddb5533e1d9d8565deb4dcca4154
-#EXTINF:-1,tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://127.0.0.1/logo/CCTV5体育.png" group-title="央视",cctv5体育
+#EXTINF:-1,tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://127.0.0.1/logo/CCTV5体育.png" group-title="咪咕央视",cctv5体育
 https://migu.freetv.top/migu/641886683.m3u8?migutoken=53f7f08e0dc1fb61db0801b0447eb0348a5de48a5baeae8e3086a283d5fd7aafaa9b60158d5aecc773a8b637d26af9ea2242d01d66da8620f49cec5f6359ee937596166c255078a94b57ed11e6
-#EXTINF:-1,tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://127.0.0.1/logo/CCTV5+体育赛事.png" group-title="央视",cctv5+体育赛事
+#EXTINF:-1,tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://127.0.0.1/logo/CCTV5+体育赛事.png" group-title="咪咕央视",cctv5+体育赛事
 https://migu.freetv.top/migu/641886773.m3u8?migutoken=26d475175fd7454084805a054751c86efc3064339a6f3474a1a1fb8c2890132c7c67d78272a7cb9ef0272b983587dbcc2fb9a059e4a5763fa70c49a6a04faf175dfd5101fede3e949ddc389040
-#EXTINF:-1,tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://127.0.0.1/logo/CCTV6电影.png" group-title="央视",cctv6电影
+#EXTINF:-1,tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://127.0.0.1/logo/CCTV6电影.png" group-title="咪咕央视",cctv6电影
 https://migu.freetv.top/migu/624878396.m3u8?migutoken=aeaabba10f2ee1fc9e30a35f23c8c990e834eae29eeae476c5b979c174f792758ad7baa34337766719cbf7858cd7a329834d1842cc9c8c17de24aa7f93a07dd4ceeb7bb21fb50ae15423acd3e7
-#EXTINF:-1,tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://127.0.0.1/logo/CCTV7国防军事.png" group-title="央视",cctv7国防军事
+#EXTINF:-1,tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://127.0.0.1/logo/CCTV7国防军事.png" group-title="咪咕央视",cctv7国防军事
 https://migu.freetv.top/migu/673168121.m3u8?migutoken=a05edd07df7a62b592ff75fb24857f94dae42ec93e0b6efb756af9514b3f7229e61ec282df2624256c5880b5483a5dba0e9c575f7c1feaaf19d8fff4ca415f8e52131d7be9e720126a0b09866c
-#EXTINF:-1,tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://127.0.0.1/logo/CCTV8电视剧.png" group-title="央视",cctv8电视剧
+#EXTINF:-1,tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://127.0.0.1/logo/CCTV8电视剧.png" group-title="咪咕央视",cctv8电视剧
 https://migu.freetv.top/migu/624878356.m3u8?migutoken=989daacc6be433215044317d3e1638185b081a604197926c5e9265369d084cead5e4ac90cd7736ee4572123dbd8f2aabc573c69715855d78e07c3f5bce03e62547ce848a9754cd740fae6579e2
-#EXTINF:-1,tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://127.0.0.1/logo/CCTV9纪录.png" group-title="央视",cctv9纪录
+#EXTINF:-1,tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://127.0.0.1/logo/CCTV9纪录.png" group-title="咪咕央视",cctv9纪录
 https://migu.freetv.top/migu/673168140.m3u8?migutoken=fa595cfd1faedb1360c822988c481c945de832e01c346fe10d0a4f6456ac78a3f8a19026ce28ec2ca65987a842bb6818c89e0d5d1a84ea783f103c4651124594ee430651abbaf7d676d9d0c40e
-#EXTINF:-1,tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://127.0.0.1/logo/CCTV10科教.png" group-title="央视",cctv10科教
+#EXTINF:-1,tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://127.0.0.1/logo/CCTV10科教.png" group-title="咪咕央视",cctv10科教
 https://migu.freetv.top/migu/624878405.m3u8?migutoken=dd29e57265eea6b7712d25c460a56831241f4d5f42ed6f9af173876e5cd46db1e34e16d99a7008c837b9e036689e63768639ce64264ddd2b69da47e6b38c8c5c473629b7fb59d4caba5e035f2e
-#EXTINF:-1,tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://127.0.0.1/logo/CCTV11戏曲.png" group-title="央视",cctv11戏曲
+#EXTINF:-1,tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://127.0.0.1/logo/CCTV11戏曲.png" group-title="咪咕央视",cctv11戏曲
 https://migu.freetv.top/migu/667987558.m3u8?migutoken=2a7a670501906084a7f3446ebb22bf26e3e1369d79a077995a798fb71906cba39256470bd0e56945764944a09f596e3330cd2eb20b4bcf4720d1511b49deb4feebac379841ab823d2e0fd3bb0a
-#EXTINF:-1,tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://127.0.0.1/logo/CCTV12社会与法.png" group-title="央视",cctv12社会与法
+#EXTINF:-1,tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://127.0.0.1/logo/CCTV12社会与法.png" group-title="咪咕央视",cctv12社会与法
 https://migu.freetv.top/migu/673168185.m3u8?migutoken=fa3ff99b475888ebd96b022cf3aa711b67e2bc20c14cf131c0fd2cf761b0a5b4983b0dd45a4ae09f2aac803377040a5cbdcc597e333d7c1a3e4ff42542be701616c74a9b802381b0b864b4496f
-#EXTINF:-1,tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://127.0.0.1/logo/CCTV13新闻.png" group-title="央视",cctv13新闻
+#EXTINF:-1,tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://127.0.0.1/logo/CCTV13新闻.png" group-title="咪咕央视",cctv13新闻
 https://migu.freetv.top/migu/608807423.m3u8?migutoken=1de534009ff52a98647ffbbda030edb624b9efd6da8f11465aaedcbd46f1115d5b54414ee55bb4b61cbb53916361091beee155ee2be4321adcbbad9c9ac54841d27eb742db165f9aa1b6f52445
-#EXTINF:-1,tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://127.0.0.1/logo/CCTV14少儿.png" group-title="央视",cctv14少儿
+#EXTINF:-1,tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://127.0.0.1/logo/CCTV14少儿.png" group-title="咪咕央视",cctv14少儿
 https://migu.freetv.top/migu/624878440.m3u8?migutoken=6a796fd846f87931e7f14c16d007b0999cb67ebb3d8e9c69da7ee8bd1d3e392ea4b7d9495b59545c44d9bb06bbc845b79258ae1509553619ff3700a5b6e8c53d7bf64379f62becb973593dcd0f
-#EXTINF:-1,tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://127.0.0.1/logo/CCTV15音乐.png" group-title="央视",cctv15音乐
+#EXTINF:-1,tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://127.0.0.1/logo/CCTV15音乐.png" group-title="咪咕央视",cctv15音乐
 https://migu.freetv.top/migu/673168223.m3u8?migutoken=5c5e2f0a91f7eade2befb22f5ca4d4be6848027652a9c7c3772652133668cdae073945d1ff2f80c61ea0a1e5f8d5ba1b500d2749c102103c3c6da3a2cc678e9e445c6c08d0bb05e3bf7cc1eebe
-#EXTINF:-1,tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://127.0.0.1/logo/CCTV17农业农村.png" group-title="央视",cctv17农业农村
+#EXTINF:-1,tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://127.0.0.1/logo/CCTV17农业农村.png" group-title="咪咕央视",cctv17农业农村
 https://migu.freetv.top/migu/673168256.m3u8?migutoken=aa60096030dd1e72b771cc20989026a786cb36f339dff9a1ce7a685aa512cbd6903d2f7af584179225357cfb750fe943608a31304ee984672bb72dd12fbf30399f96465eb2887afc44b1daf4cd
-#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://127.0.0.1/logo/CCTV4欧洲.png" group-title="央视",cctv4欧洲
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://127.0.0.1/logo/CCTV4欧洲.png" group-title="咪咕央视",cctv4欧洲
 https://migu.freetv.top/migu/608807419.m3u8?migutoken=c89002b85cd868c6e90327fee4fed8289a4445bb27e310f7d052c019207ae44623026b7b7818cdfb7ab06007cfdd0df5a4f9be5db881738fad6af1dc919e8b63d03c60913b4821245bff1ed7ff
-#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://127.0.0.1/logo/CCTV4美洲.png" group-title="央视",cctv4美洲
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://127.0.0.1/logo/CCTV4美洲.png" group-title="咪咕央视",cctv4美洲
 https://migu.freetv.top/migu/608807416.m3u8?migutoken=a02a3ecb71dd915d55ff5a10d993eab13b7a017fd995a6ed75ca94c35ed5f56e4c2f5af9acd2f1cc3dd77fc2b1d0701c295fea7daec4d313dd92445bcf105df77fb449eca28c3a21940a8e2b9d
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://127.0.0.1/logo/东方卫视.png" group-title="卫视",东方卫视
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://127.0.0.1/logo/东方卫视.png" group-title="咪咕卫视",东方卫视
 https://migu.freetv.top/migu/651632648.m3u8?migutoken=696f85c445d36b296517680c91d7e3ec8b5d7e368f4b38ef791e615433ea1b644d177e9c6a91bec05ebf0b4440f2a7f9a611b67ef3d91f5f8695b718fea2b67c66919cedeb4fa2dff7cd6375c2
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://127.0.0.1/logo/广东卫视.png" group-title="卫视",广东卫视
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://127.0.0.1/logo/广东卫视.png" group-title="咪咕卫视",广东卫视
 https://migu.freetv.top/migu/608831231.m3u8?migutoken=73dc54dc9f13d6062c67c987a2d9775ac6279ae10df7b042f05b88ae8c7f7fafd3aadc5e4d0439a9e928956899ebd0cb3213c2eb8848c123c03451ef3a9d4acfec9b0c7096326890ebcf73b734
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://127.0.0.1/logo/江苏卫视.png" group-title="卫视",江苏卫视
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://127.0.0.1/logo/江苏卫视.png" group-title="咪咕卫视",江苏卫视
 https://migu.freetv.top/migu/623899368.m3u8?migutoken=2b73333172d5c1097b62450bc41cbdc5344ce54778e4fe6be571226f0544eee36880ef5ecb13ed46cb0626bed99cb3abfa1bb74c2420c1eac265aed31b88c021ebed5c4feee943147ee9972f4b
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://127.0.0.1/logo/江西卫视.png" group-title="卫视",江西卫视
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://127.0.0.1/logo/江西卫视.png" group-title="咪咕卫视",江西卫视
 https://migu.freetv.top/migu/783847495.m3u8?migutoken=44fe5fe13e940eae2121d2c3102fcc4ed353f614941786da243d8c5394186854397ea8320fec9baf5a5e9694b8fc2e4202b2530f0da6662ce158a7aed9b4d8c75fd00ac5519b12df4c67a84fde
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://127.0.0.1/logo/河南卫视.png" group-title="卫视",河南卫视
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://127.0.0.1/logo/河南卫视.png" group-title="咪咕卫视",河南卫视
 https://migu.freetv.top/migu/790187291.m3u8?migutoken=d865db00454ea546a8ded1f586430f30c00774a5b3c99348cf16e581aa9bff372717e43d25d393b801461d4a704025782525fa391f868740d14a87cfaf895d43319eb55b1fe7f9349ca2716dfa
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://127.0.0.1/logo/陕西卫视.png" group-title="卫视",陕西卫视
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://127.0.0.1/logo/陕西卫视.png" group-title="咪咕卫视",陕西卫视
 https://migu.freetv.top/migu/738910838.m3u8?migutoken=450c4e00f256a54ceae5b3639969caf06d624a2a1f51a4e3abcad2a2084f3eb2d6111f68f32c963de9973d29da52fc0017953ffa4eebd32b49a48beb47e0aa496eb19543de95189c09730f14d4
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://127.0.0.1/logo/海南卫视.png" group-title="卫视",海南卫视
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://127.0.0.1/logo/海南卫视.png" group-title="咪咕卫视",海南卫视
 https://migu.freetv.top/migu/738906860.m3u8?migutoken=a44b2ec7196e70571675a68f5023e561071e6d99129b8cf919cea14166a9e6331f6aae973b4215043240617e88d7c33ad7a5a708dcba134b7ce8654caca72869f2cb3b89fbddf9e76c77d78fef
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://127.0.0.1/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 https://migu.freetv.top/migu/608917627.m3u8?migutoken=5c7e9e50d96d59a2286e6921dd24b58dd1a7464f2640dc471bb5bb2c4b8d8a7a208b9b329ec997741c205cd06f25e1afe4a72bdcd2249c1a4c7138d3b5c821ac10416c9ce9880fa97983d483db
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://127.0.0.1/logo/湖北卫视.png" group-title="卫视",湖北卫视
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://127.0.0.1/logo/湖北卫视.png" group-title="咪咕卫视",湖北卫视
 https://migu.freetv.top/migu/738906825.m3u8?migutoken=89ef3fc9c78d59a3c76e581a1aee9c3bbca8175560050749fe4a97ee4da5762011083c5ccc27a2c1d148c6f2b1da6559282c0fec67f3e39c4e07d163508ae5c94e9befd9567bf12bb3cc51bc97
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://127.0.0.1/logo/青海卫视.png" group-title="卫视",青海卫视
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://127.0.0.1/logo/青海卫视.png" group-title="咪咕卫视",青海卫视
 https://migu.freetv.top/migu/738898486.m3u8?migutoken=87800335bce34a993f8f40db7d73066afe979b1d6733d58afa2c1ff8c1bbaf372f707ca697a92a80b8761d97d5c7d05fcfbad8d20940b068f9f68ce8ced01b941a117b68ea4e594381f143385a
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://127.0.0.1/logo/吉林卫视.png" group-title="卫视",吉林卫视
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://127.0.0.1/logo/吉林卫视.png" group-title="咪咕卫视",吉林卫视
 https://migu.freetv.top/migu/738906889.m3u8?migutoken=206911f58e396d87800ca75075d55f97093b30fd838e2a1be79f6b4e267406360d20d0d7d6806eeed5ef1e751d823dd700d24b7fb9a1d07d3d42711a127d3836d10751683429aa8f7170ccd6bb
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://127.0.0.1/logo/东南卫视.png" group-title="卫视",东南卫视
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://127.0.0.1/logo/东南卫视.png" group-title="咪咕卫视",东南卫视
 https://migu.freetv.top/migu/849116810.m3u8?migutoken=6a5408f696990e78ff3817cadefdd2fcd00d9fa4a64dec596726d53e45a8ac5a14f1681e6e5d22f9d4b1cbc5882be92a45a4a1555041c792042fe4f076336ea8d7a69a58decf302c96a2d58cb4
-#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://127.0.0.1/logo/海峡卫视.png" group-title="卫视",海峡卫视
+#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://127.0.0.1/logo/海峡卫视.png" group-title="咪咕卫视",海峡卫视
 https://migu.freetv.top/migu/849119120.m3u8?migutoken=def6639d7dff62bf9d4e3101d7a2eb87743fc3c2a3470122bc69f196e2239bbc9de9cc234180f2b702de947a995004c2ae47aed4ec8eb652ec5e4e4c1c7030631b23e8241598b96b065f8a3276
-#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://127.0.0.1/logo/上海新闻综合.png" group-title="新闻",上海新闻综合
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://127.0.0.1/logo/上海新闻综合.png" group-title="咪咕新闻",上海新闻综合
 https://migu.freetv.top/migu/651632657.m3u8?migutoken=6e60b1e9f4088ef2f47455ff21bb154d332b3e35577fd5f7690ddc1c7cca748760e35c1537bd7fca28998880c7180eb5a9ba1f162cde54b266a8e4519df28b5d93fc80def30e31a4be8c91dafd
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://127.0.0.1/logo/上视东方影视.png" group-title="上海",上视东方影视
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://127.0.0.1/logo/上视东方影视.png" group-title="咪咕上海",上视东方影视
 https://migu.freetv.top/migu/617290047.m3u8?migutoken=2fb3a373947b2b564aeb8cce3801ef2f8e3d11ccb6327f8e2fbad3c2dba9d378532488c581527e3a177f3958ec7302f5e9fcd946adfae09e03c56ea66d5936e371983bcaf5c589f81f8daac8c1
-#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://127.0.0.1/logo/上视纪实人文.png" group-title="上海",上视纪实人文
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://127.0.0.1/logo/上视纪实人文.png" group-title="咪咕上海",上视纪实人文
 https://migu.freetv.top/migu/617289997.m3u8?migutoken=5ba7af19f160d94fc04fad5a5fbc6e7cfaa8837d9c2d65c5bca4f1d89380170dfd8e70cefb8072fdb298d14c0029886250950352f34a95038c2f37cf90c2969747056328b06f2d0dd1d22e0340
-#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://127.0.0.1/logo/上海外语.png" group-title="上海",上海外语
+#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://127.0.0.1/logo/上海外语.png" group-title="咪咕上海",上海外语
 https://migu.freetv.top/migu/618954688.m3u8?migutoken=ae360d295817088f4b96ad0ba88f5972111ef2e924cede836a3d41fcc3c607fd8f8cb564ee77e8786d320e1572bd0c1a40a2349fb87f80a0d49432d453a678b2d75f77ccdf4b475132db4f0fc9
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://127.0.0.1/logo/上海第一财经.png" group-title="上海",上海第一财经
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://127.0.0.1/logo/上海第一财经.png" group-title="咪咕上海",上海第一财经
 https://migu.freetv.top/migu/608780988.m3u8?migutoken=9dcb0cab42092422008e95624058402d6e9ded0ac3c09c0b8ac0d43d2d30828ed2c5f47834fd564c038f7d894b52bd5e784de60afe1fe8b20d3de47a41c09511a432244076879b6a5ad8078f5a
-#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://127.0.0.1/logo/七彩戏剧.png" group-title="卫视",七彩戏剧
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://127.0.0.1/logo/七彩戏剧.png" group-title="咪咕卫视",七彩戏剧
 https://migu.freetv.top/migu/796071456.m3u8?migutoken=9f0bddccb6b20e9f0acc5330be5da78f0f3b591c12fee25818dc037fec20016f2ae247105bd4e20b1b27064c27644da9bf6f3510d3ac2f23b406151fe7d2235175eeeffe70221691ed67d80fdd
-#EXTINF:-1,tvg-id="南京新闻综合频道" tvg-name="南京新闻综合频道" tvg-logo="https://127.0.0.1/logo/南京新闻综合频道.png" group-title="新闻",南京新闻综合频道
+#EXTINF:-1,tvg-id="南京新闻综合频道" tvg-name="南京新闻综合频道" tvg-logo="https://127.0.0.1/logo/南京新闻综合频道.png" group-title="咪咕新闻",南京新闻综合频道
 https://migu.freetv.top/migu/838109047.m3u8?migutoken=afbe2df378f1dfc57033514c24ec8af5c5b13c4379b0b2dbdbbe55ef39afdf047b58826072e5e1cd0ca9449f0e91eaab47c59d592038367242f67f0dc8f1a03d15de639ed2566b2b966c2dc026
-#EXTINF:-1,tvg-id="南京教科频道" tvg-name="南京教科频道" tvg-logo="https://127.0.0.1/logo/南京教科频道.png" group-title="南京",南京教科频道
+#EXTINF:-1,tvg-id="南京教科频道" tvg-name="南京教科频道" tvg-logo="https://127.0.0.1/logo/南京教科频道.png" group-title="咪咕南京",南京教科频道
 https://migu.freetv.top/migu/838153729.m3u8?migutoken=0c7e3708d9bc5bdf6e14c7eacd1e53e19593fff356c140abf0d1b3a0eca154bb01b4d1c3c156b7a5b0abe7855920e6e9029dc8f1f7688039e6dc342f4a8098aead52d612c5e14f193e219b26d6
-#EXTINF:-1,tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="https://127.0.0.1/logo/南京十八频道.png" group-title="南京",南京十八频道
+#EXTINF:-1,tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="https://127.0.0.1/logo/南京十八频道.png" group-title="咪咕南京",南京十八频道
 https://migu.freetv.top/migu/838151753.m3u8?migutoken=69ce061399a253207a816fede05afbaed1fa2ff75a9cba9d436ff92840912d8093996741f367f94e48d04ac206cf3adcb34abf8c83d5d2975668b9337855d054634616d75e6eed93f525775dfa
-#EXTINF:-1,tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://127.0.0.1/logo/江苏城市频道.png" group-title="江苏",江苏城市频道
+#EXTINF:-1,tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://127.0.0.1/logo/江苏城市频道.png" group-title="咪咕江苏",江苏城市频道
 https://migu.freetv.top/migu/626064714.m3u8?migutoken=7219c69f9523e98478c49397e9f37714801e2aa3dad1737fb9a5b36bde15a8bb5dc0ea0bf67a2b631fa59c226b3e485c47ca28ca79a35a357ec2013625f5243d07d74dc63861addc87684c56ae
-#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://127.0.0.1/logo/江苏国际.png" group-title="江苏",江苏国际
+#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://127.0.0.1/logo/江苏国际.png" group-title="咪咕江苏",江苏国际
 https://migu.freetv.top/migu/626064674.m3u8?migutoken=6455c07f28ef1fe8da044528b09b3349286e1dee1c7e62e298f4346ca82f8bc97c66d2273590fdf1f3b1f3c635faba847f370bcaf707e1121ae9465029bfe2853dd3fc0d9d02892d751b4b282f
-#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://127.0.0.1/logo/江苏教育.png" group-title="江苏",江苏教育
+#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://127.0.0.1/logo/江苏教育.png" group-title="咪咕江苏",江苏教育
 https://migu.freetv.top/migu/628008321.m3u8?migutoken=232af6b28701af7c87b0c132a1715e5add1fc8ba319c487c6f0f076edbbabc3c91f72f25d68e0df003fdb28ad9f879133165e14f5d2fcb78326daceb82e3f62f24fdd09f388bf15660e56fc861
-#EXTINF:-1,tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="https://127.0.0.1/logo/江苏影视频道.png" group-title="江苏",江苏影视频道
+#EXTINF:-1,tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="https://127.0.0.1/logo/江苏影视频道.png" group-title="咪咕江苏",江苏影视频道
 https://migu.freetv.top/migu/626064697.m3u8?migutoken=0b6c92c4ddd7b061495b14dee6c103fa0a754d2429e2c94c7b41d96c34339dacf4bb823abb381f73bc5d0b61719309c11f8cf6ecc78a555ba26a87337f146cff27ea4ac2440c73cf55ac938d6f
-#EXTINF:-1,tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" tvg-logo="https://127.0.0.1/logo/江苏综艺频道.png" group-title="江苏",江苏综艺频道
+#EXTINF:-1,tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" tvg-logo="https://127.0.0.1/logo/江苏综艺频道.png" group-title="咪咕江苏",江苏综艺频道
 https://migu.freetv.top/migu/626065193.m3u8?migutoken=d8779e80a1ff25d32d3193884af4b6df0265aff410ae333ace4eb944c81c53e44bfd2e70eee05a794cbe3ea3a0549be9bfe8a68b15193718ed5c408b07cf45aaa651d12f49368e750957ebe60d
-#EXTINF:-1,tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://127.0.0.1/logo/连云港新闻综合.png" group-title="新闻",连云港新闻综合
+#EXTINF:-1,tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://127.0.0.1/logo/连云港新闻综合.png" group-title="咪咕新闻",连云港新闻综合
 https://migu.freetv.top/migu/639731715.m3u8?migutoken=c04a94ffb75e315fa87976a55781cf2d7e14bb067b3b77489e6d67843b1c76482816b929c1ca5ce4e3ac102bfcce7f87991d3b698d6f2da8dbb035af13fa8b2db5ce37cc58f45dab2e3cd2377e
-#EXTINF:-1,tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="https://127.0.0.1/logo/公共新闻频道.png" group-title="新闻",公共新闻频道
+#EXTINF:-1,tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="https://127.0.0.1/logo/公共新闻频道.png" group-title="咪咕新闻",公共新闻频道
 https://migu.freetv.top/migu/626064693.m3u8?migutoken=4c39401dbae373a69f318141cea5dc1cf23b8e6c8ab47e4c9f3ceee37d78baf0a7470abd0c962ec6013f45b0934bd75968484bdacd4165f109342d3bd7071d94e689096ca9a36dcccc929497e1
-#EXTINF:-1,tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://127.0.0.1/logo/淮安新闻综合.png" group-title="新闻",淮安新闻综合
+#EXTINF:-1,tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://127.0.0.1/logo/淮安新闻综合.png" group-title="咪咕新闻",淮安新闻综合
 https://migu.freetv.top/migu/639731826.m3u8?migutoken=053fea8ad5e1e2afc491267db09aba80a36ccb56ae403cdbee7d3c9c8f85d0821f40a2e579d3806b1332a5fe7247bf4f5379e822e08cd843419d477e1d50d75a5be103654104e0df50d4b8abd9
-#EXTINF:-1,tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://127.0.0.1/logo/泰州新闻综合.png" group-title="新闻",泰州新闻综合
+#EXTINF:-1,tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://127.0.0.1/logo/泰州新闻综合.png" group-title="咪咕新闻",泰州新闻综合
 https://migu.freetv.top/migu/639731818.m3u8?migutoken=04f13f112a12a60aa936b18eee89762ee6c78d90c7b9aea4b7e3a504508c2da7ec1b3079e7a5a38110ddbacc545fc0a3dce6993f3fb525c95c55af98e4dd60ba3f41239b459c9fee2a5c9f8d7b
-#EXTINF:-1,tvg-id="体育休闲频道" tvg-name="体育休闲频道" tvg-logo="https://127.0.0.1/logo/体育休闲频道.png" group-title="体育",体育休闲频道
+#EXTINF:-1,tvg-id="体育休闲频道" tvg-name="体育休闲频道" tvg-logo="https://127.0.0.1/logo/体育休闲频道.png" group-title="咪咕体育",体育休闲频道
 https://migu.freetv.top/migu/626064707.m3u8?migutoken=535e27f104e497ed4db079d1dbcf85bb584cb1a3c17dc473495c12b3fa8becd5abd4e2a1f4e287a3010bce2ad6fff7bbeb50bce83a86679b89dc0d3ae69ad8539f03fe6d3d072ef59da17ce55f
-#EXTINF:-1,tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://127.0.0.1/logo/宿迁新闻综合.png" group-title="新闻",宿迁新闻综合
+#EXTINF:-1,tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://127.0.0.1/logo/宿迁新闻综合.png" group-title="咪咕新闻",宿迁新闻综合
 https://migu.freetv.top/migu/639731832.m3u8?migutoken=cfdea0f767bbddd2455f71077130a231e5b752f69fabe84d768a17fbaa0158f7bfcd634e0bb8cb1ea2c5ae3570267438f6267e6c4a18bfa460d0c980949bc3a0b7aa5c1db78d00222e6505737a
-#EXTINF:-1,tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://127.0.0.1/logo/徐州新闻综合.png" group-title="新闻",徐州新闻综合
+#EXTINF:-1,tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://127.0.0.1/logo/徐州新闻综合.png" group-title="咪咕新闻",徐州新闻综合
 https://migu.freetv.top/migu/639731747.m3u8?migutoken=64baaa01a57dd43904d7cd78bdc0ecc7ea6e6b42ff0e38719226a93806ef5038b1b6721b8ece0f0f441aef48217fe4a0053ab19a94eb368a7a1628ad26dccdec48aa8237548afd201f63b88845
-#EXTINF:-1,tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" tvg-logo="https://127.0.0.1/logo/优漫卡通频道.png" group-title="卡通",优漫卡通频道
+#EXTINF:-1,tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" tvg-logo="https://127.0.0.1/logo/优漫卡通频道.png" group-title="咪咕卡通",优漫卡通频道
 https://migu.freetv.top/migu/626064703.m3u8?migutoken=41c48baa490dbdb7d7bc5ad1c5c9192144514ee9043e39a32924548cdd51b7aaae3067cee9d226410037607b2591bbea92a4a501d98bd83d667ddc254de22085d29e10b5d13d8b96897c37bb25
-#EXTINF:-1,tvg-id="临洮电视台" tvg-name="临洮电视台" tvg-logo="https://127.0.0.1/logo/临洮电视台.png" group-title="卫视",临洮电视台
+#EXTINF:-1,tvg-id="临洮电视台" tvg-name="临洮电视台" tvg-logo="https://127.0.0.1/logo/临洮电视台.png" group-title="咪咕卫视",临洮电视台
 https://migu.freetv.top/migu/668225749.m3u8?migutoken=e9050eaabb6a024c1d5b18bdcc93e431c95c683afdc2533ca115b74f22680d5fa906c3b4298f7702f43a0a83ac3893317eb174cc237b3c0f131259031e955846d3804c8ded40fb666a187ef148
-#EXTINF:-1,tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://127.0.0.1/logo/高清大片.png" group-title="影视",高清大片
+#EXTINF:-1,tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://127.0.0.1/logo/高清大片.png" group-title="咪咕影视",高清大片
 https://migu.freetv.top/migu/629943678.m3u8?migutoken=17bf267474115173596f6c4056e06210a9e13f1ffe0b3aeee24a7e9c65629103d42225d855b5fdd0ce738b1ef668931097951bd835ed65cb5478c900de968d82d09e9113af008c1a4028761090
-#EXTINF:-1,tvg-id="经典深圳旁边电影" tvg-name="经典深圳旁边电影" tvg-logo="https://127.0.0.1/logo/经典深圳旁边电影.png" group-title="影视",经典深圳旁边电影
+#EXTINF:-1,tvg-id="经典深圳旁边电影" tvg-name="经典深圳旁边电影" tvg-logo="https://127.0.0.1/logo/经典深圳旁边电影.png" group-title="咪咕影视",经典深圳旁边电影
 https://migu.freetv.top/migu/625703337.m3u8?migutoken=fac358e5d25172da7b8bf407e1df874875cb43d790121e2677b3c18ee3d98a32a94c84ec4b41ea0c7b1d95335b09fce50620035f81cab0ebe02bda399047a0bf6a27d55f372d1878e6b0379eb5
-#EXTINF:-1,tvg-id="军事迷必看大片" tvg-name="军事迷必看大片" tvg-logo="https://127.0.0.1/logo/军事迷必看大片.png" group-title="教育",军事迷必看大片
-https://migu.freetv.top/migu/617432318.m3u8?migutoken=5c7cd6427030e1aca4962172f07756e622d432c527206cb7ee42d41232e7b7589f925a049f984d75c42903b3799b73e3676315ab2f029c9b94f4129b7f77b72509e064b842433c9a0f6632e72b
 #EXTINF:-1,tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://127.0.0.1/logo/新片放映厅.png" group-title="影视",新片放映厅
 https://migu.freetv.top/migu/619495952.m3u8?migutoken=66ec195782854804601abec868c949515523a12a4ea23acee5f3bc40ea67a15276030f02b98db0080a695ac246fbd4b5c154bbee1f028358fde1f8770f8dfebdc12dd0d1495541e69d325391e5
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://127.0.0.1/logo/CHC动作电影.png" group-title="影视",chc动作电影
@@ -1709,4 +1707,4 @@ https://migu.freetv.top/migu/609169286.m3u8?migutoken=4132e3dad9ab114950c74106ba
 https://migu.freetv.top/migu/609169287.m3u8?migutoken=c0ce8a3d07d752294145531e6ab21cea63b42e6cfc2f5220cc7d4cbebb5467b08e24ed29c93f7d4e7a48cc708cf1950d60e4c7f569a1e5f1227c732425df2b17f126146fa9cb3eddd4e5963e2d
 #EXTINF:-1,tvg-id="熊猫频道9" tvg-name="熊猫频道9" tvg-logo="https://127.0.0.1/logo/熊猫频道9.png" group-title="熊猫",熊猫频道9
 https://migu.freetv.top/migu/609169226.m3u8?migutoken=cfd99a1e2438dd29699fcda13ff0f53481e75098950e05b70bc537ba3c756b4f16cfd77cc097de37e3abe9ea6db2f3364a563d2e54194a7a379b6b41b6a2384ca6f3cb11c9681f070d050f2821
-#EXTINF:-1,tvg-id="熊猫频道10" tvg-name="熊猫频道10" tvg-logo="https://127.0.0.1/logo/熊猫频道10.png" group-title="熊猫",熊猫频道10
+
