@@ -37,6 +37,20 @@ http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4K超高清
 rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaSujYdOJIxzHbqUCHoVOOmYONcro96BwexVkCaWGN4AaDllzUgOtVDbNPl%2BUkpMwEYepwS3fw7n1HXf%2B%2B9pEpZE%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9935055570721873923307127370%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C482375860%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4K超高清
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4K超高清
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8K超高清
+http://media.a049.ottcn.com/PLTV/3/224/3221228165/index.m3u8?$3840x2160
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8K超高清
+http://49.232.131.30:99/8k.php?id=4k&&$3840x2160
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8K超高清
+http://49.232.131.30:99/8k.php?id=8k&&$3840x2160
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8K超高清
+http://49.232.131.30:99/8k.php?id=8k25&&$3840x2160
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8K超高清
+http://117.72.68.25:9930/ys4k.php?id=8k&&$3840x2160
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道",风云音乐
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000319?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY1GVU%2FDma1qX2%2FFHkIljWPHYOBi0I4Xo0cjEgfJEP4NK3TRb4af7rjJZdRcxTCe%2B9w%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000319%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000309%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",风云足球
