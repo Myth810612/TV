@@ -199,6 +199,8 @@ http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="港台频道",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="CNA新闻" tvg-logo="https://live.fanmingming.com/tv/CNA新闻.png" group-title="港台频道",CNA新闻
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="港台频道",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://live.fanmingming.com/tv/KIX.png" group-title="港台频道",KIX
@@ -229,6 +231,8 @@ http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台频道",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台频道",TVBS新闻
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="港台频道",寰宇新闻
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="港台频道",东森新闻
@@ -246,17 +250,17 @@ http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="龍华電影" tvg-logo="https://live.fanmingming.com/tv/龍华電影.png" group-title="港台频道",龍华電影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港台频道",中视
-rtmp://f13h.mine.nu:1935/sat/tv091
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港台频道",中视
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港台频道",民视
-rtmp://f13h.mine.nu:1935/sat/tv051
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港台频道",中视
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台频道",华视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港台频道",民视
+rtmp://f13h.mine.nu:1935/sat/tv051
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港台频道",台视
 rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港台频道",中视
+rtmp://f13h.mine.nu:1935/sat/tv091
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港台频道",中视
+rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港台频道",台视
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台频道",华视
@@ -283,20 +287,18 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv074
 http://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台频道",台视新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv051
-#EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://live.fanmingming.com/tv/民视闽南.png" group-title="港台频道",民视闽南
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港台频道",民视
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
-#EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://live.fanmingming.com/tv/民视闽南.png" group-title="港台频道",民视闽南
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港台频道",民视
 http://litv.zapi.us.kg/?id=4gtv-4gtv155
-#EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://live.fanmingming.com/tv/中视闽南.png" group-title="港台频道",中视闽南
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港台频道",中视
 http://litv.zapi.us.kg/?id=4gtv-4gtv040
-#EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://live.fanmingming.com/tv/华视闽南.png" group-title="港台频道",华视闽南
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台频道",华视
 http://litv.zapi.us.kg/?id=4gtv-4gtv041
-#EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://live.fanmingming.com/tv/台视闽南.png" group-title="港台频道",台视闽南
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港台频道",台视
 http://litv.zapi.us.kg/?id=4gtv-4gtv066
-#EXTINF:-1 tvg-name="寰宇闽南" tvg-logo="https://live.fanmingming.com/tv/寰宇闽南.png" group-title="港台频道",寰宇闽南
+#EXTINF:-1 tvg-name="寰宇台湾" tvg-logo="https://live.fanmingming.com/tv/寰宇台湾.png" group-title="港台频道",寰宇台湾
 http://litv.zapi.us.kg/?id=litv-longturn15
-#EXTINF:-1 tvg-name="tvbs闽南" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南.png" group-title="港台频道",tvbs闽南
-http://litv.zapi.us.kg/?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/民视台湾.png" group-title="港台频道",民视台湾
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/民视台湾.png" group-title="港台频道",民视台湾
@@ -323,9 +325,11 @@ http://litv.zapi.us.kg/?id=litv-longturn22
 http://litv.zapi.us.kg/?id=4gtv-4gtv104
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/东森财经.png" group-title="港台频道",东森财经
 http://litv.zapi.us.kg/?id=4gtv-4gtv153
-#EXTINF:-1 tvg-name="tvbs精采" tvg-logo="https://live.fanmingming.com/tv/tvbs精采.png" group-title="港台频道",tvbs精采
+#EXTINF:-1 tvg-name="TVBS闽南" tvg-logo="https://live.fanmingming.com/tv/TVBS闽南.png" group-title="港台频道",TVBS闽南
+http://litv.zapi.us.kg/?id=4gtv-4gtv073
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://live.fanmingming.com/tv/TVBS精采.png" group-title="港台频道",TVBS精采
 http://litv.zapi.us.kg/?id=4gtv-4gtv067
-#EXTINF:-1 tvg-name="tvbs欢乐" tvg-logo="https://live.fanmingming.com/tv/tvbs欢乐.png" group-title="港台频道",tvbs欢乐
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="港台频道",TVBS欢乐
 http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://live.fanmingming.com/tv/八大精彩.png" group-title="港台频道",八大精彩
 http://litv.zapi.us.kg/?id=4gtv-4gtv034
