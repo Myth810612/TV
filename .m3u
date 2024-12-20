@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss }”
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视道",CCTV-3综艺
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -771,45 +771,3 @@ https://migu.freetv.top/migu/713600957.m3u8?migutoken=9102caf2dedf856bd7102af3bc
 https://migu.freetv.top/migu/631354620.m3u8?migutoken=8e13550866271e4c598b4ce04105702f3e8749ce94314ad1b99c9af4d38f8b0b8119bbff41baede90d1d273d38a863dc18c6931cc04a0368edc502774534cf44a7a278e6e29169f73fe9a2b618
 #EXTINF:-1 tvg-name="咪咕汇盛典轮播" tvg-logo="https://live.fanmingming.cn/tv/咪咕汇盛典轮播.png" group-title="咪咕频道",咪咕汇盛典轮播
 https://migu.freetv.top/migu/939773601.m3u8?migutoken=08af7e3992cdb6242c26d66e56a9d1060b8966d10087cd31bdb21d6c165527c5b581fbded2f00573b8dcbb254969d2be89c65145d2f7fdf4d73a577310f06dad73f53b37a8f252bd5b0963a01b
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="高清频道",CCTV1
-http://eastscreen.tv/ooooo.php?id=CCTV1HD
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="高清频道",CCTV2
-http://eastscreen.tv/ooooo.php?id=CCTV2HD
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="高清频道",CCTV3
-http://eastscreen.tv/ooooo.php?id=CCTV3HD
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="高清频道",CCTV5
-http://eastscreen.tv/ooooo.php?id=CCTV5HD
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="高清频道",CCTV5+
-http://eastscreen.tv/ooooo.php?id=CCTV5+HD
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="高清频道",CCTV6
-http://eastscreen.tv/ooooo.php?id=CCTV6HD
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="高清频道",CCTV7
-http://eastscreen.tv/ooooo.php?id=CCTV7HD
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="高清频道",CCTV8
-http://eastscreen.tv/ooooo.php?id=CCTV8HD
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="高清频道",CCTV9
-http://eastscreen.tv/ooooo.php?id=CCTV9HD
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="高清频道",CCTV13
-http://eastscreen.tv/ooooo.php?id=CCTV13HD
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="高清频道",CCTV16
-http://eastscreen.tv/ooooo.php?id=CCTV16HD
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="高清频道",湖南卫视
-http://eastscreen.tv/ooooo.php?id=hnwshd
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="高清频道",浙江卫视
-http://eastscreen.tv/ooooo.php?id=zjwshd
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="高清频道",东方卫视
-http://eastscreen.tv/ooooo.php?id=dfwshd
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="高清频道",广东卫视
-http://eastscreen.tv/ooooo.php?id=gdwshd
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭电影.png" group-title="高清频道",CHC家庭电影
-http://eastscreen.tv/ooooo.php?id=chcjt
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="高清频道",CHC动作电影
-http://eastscreen.tv/ooooo.php?id=chcdz
-#EXTINF:-1 tvg-name="CHD高清电影" tvg-logo="https://live.fanmingming.cn/tv/CHD高清电影.png" group-title="高清频道",CHD高清电影
-http://eastscreen.tv/ooooo.php?id=chchd
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="高清频道",求索纪录
-http://eastscreen.tv/ooooo.php?id=qsjl
-#EXTINF:-1 tvg-name="彩蛋1" tvg-logo="https://live.fanmingming.cn/tv/彩蛋1.png" group-title="高清频道",彩蛋1
-http://eastscreen.tv/ooooo.php?id=fhws
-#EXTINF:-1 tvg-name="彩蛋2" tvg-logo="https://live.fanmingming.cn/tv/彩蛋2.png" group-title="高清频道",彩蛋2
-http://eastscreen.tv/ooooo.php?id=fhzx
