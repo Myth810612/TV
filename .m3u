@@ -112,7 +112,7 @@ http://[2409:8087:74d6:22::7]:6410/270000001128/9900000037/index.m3u8?
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000522/index.m3u8?
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8?
+http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000519/index.m3u8?
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -403,7 +403,7 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-name="华语电影" tvg-logo="https://live.fanmingming.cn/tv/华语电影.png" group-title="湖北移动",华语电影
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-#EXTINF:-1 tvg-name="小黛兮影" tvg-logo="https://live.fanmingming.cn/tv/小黛兮影.png" group-title="湖北移动",小黛兮影
+#EXTINF:-1 tvg-name="小黛电影" tvg-logo="https://live.fanmingming.cn/tv/小黛电影.png" group-title="湖北移动",小黛电影
 http://itv.666230.xyz/douyu/11553944
 #EXTINF:-1 tvg-name="小宇60帧" tvg-logo="https://live.fanmingming.cn/tv/小宇60帧.png" group-title="湖北移动",小宇60帧
 http://itv.666230.xyz/douyu/323876
@@ -433,9 +433,9 @@ http://itv.666230.xyz/douyu/6079455
 http://itv.666230.xyz/douyu/8945323
 #EXTINF:-1 tvg-name="斗鱼电影HD11" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD11.png" group-title="湖北移动",斗鱼电影HD11
 http://itv.666230.xyz/douyu/1165374
-#EXTINF:-1 tvg-name="变种人片✔原" tvg-logo="https://live.fanmingming.cn/tv/变种人片✔原.png" group-title="湖北移动",变种人片✔原
+#EXTINF:-1 tvg-name="变种人片" tvg-logo="https://live.fanmingming.cn/tv/变种人片.png" group-title="湖北移动",变种人片
 http://itv.666230.xyz/douyu/9651304
-#EXTINF:-1 tvg-name="冰冰经典✔原" tvg-logo="https://live.fanmingming.cn/tv/冰冰经典✔原.png" group-title="湖北移动",冰冰经典✔原
+#EXTINF:-1 tvg-name="冰冰经典" tvg-logo="https://live.fanmingming.cn/tv/冰冰经典.png" group-title="湖北移动",冰冰经典
 http://itv.666230.xyz/douyu/74374
 #EXTINF:-1 tvg-name="不一样的电影" tvg-logo="https://live.fanmingming.cn/tv/不一样的电影.png" group-title="湖北移动",不一样的电影
 http://itv.666230.xyz/douyu/2632223
@@ -447,19 +447,19 @@ http://itv.666230.xyz/douyu/3637778
 http://itv.666230.xyz/douyu/434971
 #EXTINF:-1 tvg-name="霍格影片" tvg-logo="https://live.fanmingming.cn/tv/霍格影片.png" group-title="湖北移动",霍格影片
 http://itv.666230.xyz/douyu/8814650
-#EXTINF:-1 tvg-name="凌儿影院✔原" tvg-logo="https://live.fanmingming.cn/tv/凌儿影院✔原.png" group-title="湖北移动",凌儿影院✔原
+#EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://live.fanmingming.cn/tv/凌儿影院.png" group-title="湖北移动",凌儿影院
 http://itv.666230.xyz/douyu/1377142
 #EXTINF:-1 tvg-name="漫威影片" tvg-logo="https://live.fanmingming.cn/tv/漫威影片.png" group-title="湖北移动",漫威影片
 http://itv.666230.xyz/douyu/6140589
-#EXTINF:-1 tvg-name="女神电影✔原" tvg-logo="https://live.fanmingming.cn/tv/女神电影✔原.png" group-title="湖北移动",女神电影✔原
+#EXTINF:-1 tvg-name="女神电影" tvg-logo="https://live.fanmingming.cn/tv/女神电影.png" group-title="湖北移动",女神电影
 http://itv.666230.xyz/douyu/747764
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.cn/tv/邵氏影院.png" group-title="湖北移动",邵氏影院
 http://itv.666230.xyz/douyu/4246519
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.cn/tv/邵氏影院.png" group-title="湖北移动",邵氏影院
 http://itv.666230.xyz/douyu/4246519
-#EXTINF:-1 tvg-name="神乐剧场✔原" tvg-logo="https://live.fanmingming.cn/tv/神乐剧场✔原.png" group-title="湖北移动",神乐剧场✔原
+#EXTINF:-1 tvg-name="神乐剧场" tvg-logo="https://live.fanmingming.cn/tv/神乐剧场.png" group-title="湖北移动",神乐剧场
 http://itv.666230.xyz/douyu/85894
-#EXTINF:-1 tvg-name="神乐影剧✔原" tvg-logo="https://live.fanmingming.cn/tv/神乐影剧✔原.png" group-title="湖北移动",神乐影剧✔原
+#EXTINF:-1 tvg-name="神乐影剧" tvg-logo="https://live.fanmingming.cn/tv/神乐影剧.png" group-title="湖北移动",神乐影剧
 http://itv.666230.xyz/douyu/122402
 #EXTINF:-1 tvg-name="成龙电影台" tvg-logo="https://live.fanmingming.cn/tv/成龙电影台.png" group-title="湖北移动",成龙电影台
 http://zby.xjqxz.top/cldy/live.m3u8
