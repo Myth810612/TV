@@ -57,9 +57,6 @@ http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221229726/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV-央视台球.png" group-title="央视频道",CCTV-央视台球
 http://111.48.34.237/PLTV/88888888/224/3221230173/1.m3u8
-
-
-
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://111.48.34.237/PLTV/88888888/224/3221230010/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -83,7 +80,7 @@ http://111.48.34.237/PLTV/88888888/224/3221229706/1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://111.48.34.237/PLTV/88888888/224/3221230128/1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://111.48.34.237/PLTV/88888888/224/3221229707/1.m3u8
+http://111.48.34.237/PLTV/88888888/224/3221230328/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://111.48.34.237/PLTV/88888888/224/3221229812/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
