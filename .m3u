@@ -139,99 +139,91 @@ http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=rhvfndsbhylcp2zz" group-title="高清频道",CCTV8K
 http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.cn/tv/湖北综合.png" group-title="湖北移动",湖北综合
+#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.cn/tv/湖北综合.png" group-title="湖北地方",湖北综合
 http://111.48.34.237/PLTV/88888888/224/3221230439/1.m3u8
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.cn/tv/湖北经视.png" group-title="湖北移动",湖北经视
+#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.cn/tv/湖北经视.png" group-title="湖北地方",湖北经视
 http://111.48.34.237/PLTV/88888888/224/3221230388/1.m3u8
-#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.cn/tv/湖北影视.png" group-title="湖北移动",湖北影视
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.cn/tv/湖北影视.png" group-title="湖北地方",湖北影视
 http://111.48.34.237/PLTV/88888888/224/3221230404/1.m3u8
-#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.cn/tv/湖北生活.png" group-title="湖北移动",湖北生活
+#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.cn/tv/湖北生活.png" group-title="湖北地方",湖北生活
 http://111.48.34.237/PLTV/88888888/224/3221230457/1.m3u8
-#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.cn/tv/湖北垄上.png" group-title="湖北移动",湖北垄上
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.cn/tv/湖北垄上.png" group-title="湖北地方",湖北垄上
 http://111.48.34.237/PLTV/88888888/224/3221230390/1.m3u8
-#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.cn/tv/湖北教育.png" group-title="湖北移动",湖北教育
+#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.cn/tv/湖北教育.png" group-title="湖北地方",湖北教育
 http://111.48.34.237/PLTV/88888888/224/3221230406/1.m3u8
-#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.cn/tv/湖北公共.png" group-title="湖北移动",湖北公共
+#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.cn/tv/湖北公共.png" group-title="湖北地方",湖北公共
 http://111.48.34.237/PLTV/88888888/224/3221230441/1.m3u8
-#EXTINF:-1 tvg-name="恩施综合" tvg-logo="https://live.fanmingming.cn/tv/恩施综合.png" group-title="湖北移动",恩施综合
-http://111.48.34.237/PLTV/88888888/224/3221229882/1.m3u8
-#EXTINF:-1 tvg-name="恩施综合" tvg-logo="https://live.fanmingming.cn/tv/恩施综合.png" group-title="湖北移动",恩施综合
+#EXTINF:-1 tvg-name="恩施综合" tvg-logo="https://live.fanmingming.cn/tv/恩施综合.png" group-title="湖北地方",恩施综合
 https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
-#EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://live.fanmingming.cn/tv/恩施文旅.png" group-title="湖北移动",恩施文旅
-http://111.48.34.237/PLTV/88888888/224/3221229884/1.m3u8
-#EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://live.fanmingming.cn/tv/恩施文旅.png" group-title="湖北移动",恩施文旅
+#EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://live.fanmingming.cn/tv/恩施文旅.png" group-title="湖北地方",恩施文旅
 https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
-#EXTINF:-1 tvg-name="巴东综合" tvg-logo="https://live.fanmingming.cn/tv/巴东综合.png" group-title="湖北移动",巴东综合
+#EXTINF:-1 tvg-name="巴东综合" tvg-logo="https://live.fanmingming.cn/tv/巴东综合.png" group-title="湖北地方",巴东综合
 http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3522.m3u8?auth_key=4860354782-0-0-0bc026e554be331e11f9118a5507dbd6&extra_key=du5v5yekM-ggopdZ_sngtTZ65Uth9WDHICSAwr25ENDQIdlV3Yd2lHeLSlp5B8KLBoWG0nmJUj1QO75vWPg_oNJJLOYxRTOV57psEWQI4qKLGvWzL9PBysSluKuq-Ux9lJltJgQb5lWNdWOKYZiLcxSGG_008O5kq4mJC8KOxeo
-#EXTINF:-1 tvg-name="宜昌综合" tvg-logo="https://live.fanmingming.cn/tv/宜昌综合.png" group-title="湖北移动",宜昌综合
-https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8#@kdsvod://hbyctv1://1#@htmlplay://http://www.3xgd.com/live/1.html
-#EXTINF:-1 tvg-name="宜昌旅游生活" tvg-logo="https://live.fanmingming.cn/tv/宜昌旅游生活.png" group-title="湖北移动",宜昌旅游生活
-https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1#@kdsvod://hbyctv1://2#@htmlplay://http://www.3xgd.com/live/2.html
-#EXTINF:-1 tvg-name="星爷电影" tvg-logo="https://live.fanmingming.cn/tv/星爷电影.png" group-title="湖北移动",星爷电影
+#EXTINF:-1 tvg-name="星爷电影" tvg-logo="https://live.fanmingming.cn/tv/星爷电影.png" group-title="湖北地方",星爷电影
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 tvg-name="欧美电影" tvg-logo="https://live.fanmingming.cn/tv/欧美电影.png" group-title="湖北移动",欧美电影
+#EXTINF:-1 tvg-name="欧美电影" tvg-logo="https://live.fanmingming.cn/tv/欧美电影.png" group-title="湖北地方",欧美电影
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 tvg-name="华语电影" tvg-logo="https://live.fanmingming.cn/tv/华语电影.png" group-title="湖北移动",华语电影
+#EXTINF:-1 tvg-name="华语电影" tvg-logo="https://live.fanmingming.cn/tv/华语电影.png" group-title="湖北地方",华语电影
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-#EXTINF:-1 tvg-name="小黛电影" tvg-logo="https://live.fanmingming.cn/tv/小黛电影.png" group-title="湖北移动",小黛电影
+#EXTINF:-1 tvg-name="小黛电影" tvg-logo="https://live.fanmingming.cn/tv/小黛电影.png" group-title="湖北地方",小黛电影
 http://itv.666230.xyz/douyu/11553944
-#EXTINF:-1 tvg-name="小宇60帧" tvg-logo="https://live.fanmingming.cn/tv/小宇60帧.png" group-title="湖北移动",小宇60帧
+#EXTINF:-1 tvg-name="小宇60帧" tvg-logo="https://live.fanmingming.cn/tv/小宇60帧.png" group-title="湖北地方",小宇60帧
 http://itv.666230.xyz/douyu/323876
-#EXTINF:-1 tvg-name="贝爷影厅1" tvg-logo="https://live.fanmingming.cn/tv/贝爷影厅1.png" group-title="湖北移动",贝爷影厅1
+#EXTINF:-1 tvg-name="贝爷影厅1" tvg-logo="https://live.fanmingming.cn/tv/贝爷影厅1.png" group-title="湖北地方",贝爷影厅1
 http://itv.666230.xyz/douyu/252802
-#EXTINF:-1 tvg-name="贝爷影厅2" tvg-logo="https://live.fanmingming.cn/tv/贝爷影厅2.png" group-title="湖北移动",贝爷影厅2
+#EXTINF:-1 tvg-name="贝爷影厅2" tvg-logo="https://live.fanmingming.cn/tv/贝爷影厅2.png" group-title="湖北地方",贝爷影厅2
 http://itv.666230.xyz/douyu/36337
-#EXTINF:-1 tvg-name="斗鱼电影HD1" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD1.png" group-title="湖北移动",斗鱼电影HD1
+#EXTINF:-1 tvg-name="斗鱼电影HD1" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD1.png" group-title="湖北地方",斗鱼电影HD1
 http://itv.666230.xyz/douyu/2935323
-#EXTINF:-1 tvg-name="斗鱼电影HD2" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD2.png" group-title="湖北移动",斗鱼电影HD2
+#EXTINF:-1 tvg-name="斗鱼电影HD2" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD2.png" group-title="湖北地方",斗鱼电影HD2
 http://itv.666230.xyz/douyu/9651304
-#EXTINF:-1 tvg-name="斗鱼电影HD3" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD3.png" group-title="湖北移动",斗鱼电影HD3
+#EXTINF:-1 tvg-name="斗鱼电影HD3" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD3.png" group-title="湖北地方",斗鱼电影HD3
 http://itv.666230.xyz/douyu/413573
-#EXTINF:-1 tvg-name="斗鱼电影HD4" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD4.png" group-title="湖北移动",斗鱼电影HD4
+#EXTINF:-1 tvg-name="斗鱼电影HD4" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD4.png" group-title="湖北地方",斗鱼电影HD4
 http://itv.666230.xyz/douyu/1274132
-#EXTINF:-1 tvg-name="斗鱼电影HD6" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD6.png" group-title="湖北移动",斗鱼电影HD6
+#EXTINF:-1 tvg-name="斗鱼电影HD6" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD6.png" group-title="湖北地方",斗鱼电影HD6
 http://itv.666230.xyz/douyu/7623292
-#EXTINF:-1 tvg-name="斗鱼电影HD6" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD6.png" group-title="湖北移动",斗鱼电影HD6
+#EXTINF:-1 tvg-name="斗鱼电影HD6" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD6.png" group-title="湖北地方",斗鱼电影HD6
 http://itv.666230.xyz/douyu/8705754
-#EXTINF:-1 tvg-name="斗鱼电影HD7" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD7.png" group-title="湖北移动",斗鱼电影HD7
+#EXTINF:-1 tvg-name="斗鱼电影HD7" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD7.png" group-title="湖北地方",斗鱼电影HD7
 http://itv.666230.xyz/douyu/2436390
-#EXTINF:-1 tvg-name="斗鱼电影HD8" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD8.png" group-title="湖北移动",斗鱼电影HD8
+#EXTINF:-1 tvg-name="斗鱼电影HD8" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD8.png" group-title="湖北地方",斗鱼电影HD8
 http://itv.666230.xyz/douyu/218859
-#EXTINF:-1 tvg-name="斗鱼电影HD9" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD9.png" group-title="湖北移动",斗鱼电影HD9
+#EXTINF:-1 tvg-name="斗鱼电影HD9" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD9.png" group-title="湖北地方",斗鱼电影HD9
 http://itv.666230.xyz/douyu/6079455
-#EXTINF:-1 tvg-name="斗鱼电影HD10" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD10.png" group-title="湖北移动",斗鱼电影HD10
+#EXTINF:-1 tvg-name="斗鱼电影HD10" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD10.png" group-title="湖北地方",斗鱼电影HD10
 http://itv.666230.xyz/douyu/8945323
-#EXTINF:-1 tvg-name="斗鱼电影HD11" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD11.png" group-title="湖北移动",斗鱼电影HD11
+#EXTINF:-1 tvg-name="斗鱼电影HD11" tvg-logo="https://live.fanmingming.cn/tv/斗鱼电影HD11.png" group-title="湖北地方",斗鱼电影HD11
 http://itv.666230.xyz/douyu/1165374
-#EXTINF:-1 tvg-name="变种人片" tvg-logo="https://live.fanmingming.cn/tv/变种人片.png" group-title="湖北移动",变种人片
+#EXTINF:-1 tvg-name="变种人片" tvg-logo="https://live.fanmingming.cn/tv/变种人片.png" group-title="湖北地方",变种人片
 http://itv.666230.xyz/douyu/9651304
-#EXTINF:-1 tvg-name="冰冰经典" tvg-logo="https://live.fanmingming.cn/tv/冰冰经典.png" group-title="湖北移动",冰冰经典
+#EXTINF:-1 tvg-name="冰冰经典" tvg-logo="https://live.fanmingming.cn/tv/冰冰经典.png" group-title="湖北地方",冰冰经典
 http://itv.666230.xyz/douyu/74374
-#EXTINF:-1 tvg-name="不一样的电影" tvg-logo="https://live.fanmingming.cn/tv/不一样的电影.png" group-title="湖北移动",不一样的电影
+#EXTINF:-1 tvg-name="不一样的电影" tvg-logo="https://live.fanmingming.cn/tv/不一样的电影.png" group-title="湖北地方",不一样的电影
 http://itv.666230.xyz/douyu/2632223
-#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://live.fanmingming.cn/tv/豆瓣高分.png" group-title="湖北移动",豆瓣高分
+#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://live.fanmingming.cn/tv/豆瓣高分.png" group-title="湖北地方",豆瓣高分
 http://itv.666230.xyz/douyu/8770422
-#EXTINF:-1 tvg-name="港台电影" tvg-logo="https://live.fanmingming.cn/tv/港台电影.png" group-title="湖北移动",港台电影
+#EXTINF:-1 tvg-name="港台电影" tvg-logo="https://live.fanmingming.cn/tv/港台电影.png" group-title="湖北地方",港台电影
 http://itv.666230.xyz/douyu/3637778
-#EXTINF:-1 tvg-name="华语经典" tvg-logo="https://live.fanmingming.cn/tv/华语经典.png" group-title="湖北移动",华语经典
+#EXTINF:-1 tvg-name="华语经典" tvg-logo="https://live.fanmingming.cn/tv/华语经典.png" group-title="湖北地方",华语经典
 http://itv.666230.xyz/douyu/434971
-#EXTINF:-1 tvg-name="霍格影片" tvg-logo="https://live.fanmingming.cn/tv/霍格影片.png" group-title="湖北移动",霍格影片
+#EXTINF:-1 tvg-name="霍格影片" tvg-logo="https://live.fanmingming.cn/tv/霍格影片.png" group-title="湖北地方",霍格影片
 http://itv.666230.xyz/douyu/8814650
-#EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://live.fanmingming.cn/tv/凌儿影院.png" group-title="湖北移动",凌儿影院
+#EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://live.fanmingming.cn/tv/凌儿影院.png" group-title="湖北地方",凌儿影院
 http://itv.666230.xyz/douyu/1377142
-#EXTINF:-1 tvg-name="漫威影片" tvg-logo="https://live.fanmingming.cn/tv/漫威影片.png" group-title="湖北移动",漫威影片
+#EXTINF:-1 tvg-name="漫威影片" tvg-logo="https://live.fanmingming.cn/tv/漫威影片.png" group-title="湖北地方",漫威影片
 http://itv.666230.xyz/douyu/6140589
-#EXTINF:-1 tvg-name="女神电影" tvg-logo="https://live.fanmingming.cn/tv/女神电影.png" group-title="湖北移动",女神电影
+#EXTINF:-1 tvg-name="女神电影" tvg-logo="https://live.fanmingming.cn/tv/女神电影.png" group-title="湖北地方",女神电影
 http://itv.666230.xyz/douyu/747764
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.cn/tv/邵氏影院.png" group-title="湖北移动",邵氏影院
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.cn/tv/邵氏影院.png" group-title="湖北地方",邵氏影院
 http://itv.666230.xyz/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.cn/tv/邵氏影院.png" group-title="湖北移动",邵氏影院
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.cn/tv/邵氏影院.png" group-title="湖北地方",邵氏影院
 http://itv.666230.xyz/douyu/4246519
-#EXTINF:-1 tvg-name="神乐剧场" tvg-logo="https://live.fanmingming.cn/tv/神乐剧场.png" group-title="湖北移动",神乐剧场
+#EXTINF:-1 tvg-name="神乐剧场" tvg-logo="https://live.fanmingming.cn/tv/神乐剧场.png" group-title="湖北地方",神乐剧场
 http://itv.666230.xyz/douyu/85894
-#EXTINF:-1 tvg-name="神乐影剧" tvg-logo="https://live.fanmingming.cn/tv/神乐影剧.png" group-title="湖北移动",神乐影剧
+#EXTINF:-1 tvg-name="神乐影剧" tvg-logo="https://live.fanmingming.cn/tv/神乐影剧.png" group-title="湖北地方",神乐影剧
 http://itv.666230.xyz/douyu/122402
-#EXTINF:-1 tvg-name="成龙电影台" tvg-logo="https://live.fanmingming.cn/tv/成龙电影台.png" group-title="湖北移动",成龙电影台
+#EXTINF:-1 tvg-name="成龙电影台" tvg-logo="https://live.fanmingming.cn/tv/成龙电影台.png" group-title="湖北地方",成龙电影台
 http://zby.xjqxz.top/cldy/live.m3u8
-#EXTINF:-1 tvg-name="李连杰电影" tvg-logo="https://live.fanmingming.cn/tv/李连杰电影.png" group-title="湖北移动",李连杰电影
+#EXTINF:-1 tvg-name="李连杰电影" tvg-logo="https://live.fanmingming.cn/tv/李连杰电影.png" group-title="湖北地方",李连杰电影
 http://zby.xjqxz.top/lljdy/live.m3u8
