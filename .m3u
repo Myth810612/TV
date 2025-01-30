@@ -91,9 +91,9 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视频道",CCTV4K
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视频道",CCTV-4K超高清
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视频道",CCTV4K
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视频道",CCTV-4K超高清
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226766/1.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="央视频道",央视台球
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226716/1.m3u8
@@ -103,7 +103,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226719/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/1.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="央视频道",兵器科技
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/1.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="央视频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="央视频道",欢笑剧场
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="央视频道",老故事
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/1.m3u8
