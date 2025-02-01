@@ -309,6 +309,8 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226173/1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="湖北移动",山西卫视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226174/1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="湖北地方",湖北卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/1.m3u8
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.cn/tv/湖北教育.png" group-title="湖北地方",湖北教育
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/1.m3u8
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.cn/tv/湖北公共.png" group-title="湖北地方",湖北公共
@@ -321,8 +323,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.cn/tv/湖北影视.png" group-title="湖北地方",湖北影视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="湖北地方",湖北卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/1.m3u8
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.cn/tv/湖北生活.png" group-title="湖北地方",湖北生活
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.cn/tv/湖北综合.png" group-title="湖北地方",湖北综合
