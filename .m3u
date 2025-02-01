@@ -158,16 +158,6 @@ http://111.48.34.237/PLTV/88888888/224/3221230390/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230406/1.m3u8
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.cn/tv/湖北公共.png" group-title="湖北移动",湖北公共
 http://111.48.34.237/PLTV/88888888/224/3221230441/1.m3u8
-#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.cn/tv/湖北综合.png" group-title="湖北移动",湖北综合
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593
-#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.cn/tv/湖北公共.png" group-title="湖北移动",湖北公共
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582
-#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.cn/tv/湖北教育.png" group-title="湖北移动",湖北教育
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.cn/tv/湖北经视.png" group-title="湖北移动",湖北经视
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588
-#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.cn/tv/湖北影视.png" group-title="湖北移动",湖北影视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518
 #EXTINF:-1 tvg-name="恩施综合" tvg-logo="https://live.fanmingming.cn/tv/恩施综合.png" group-title="湖北移动",恩施综合
 https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
 #EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://live.fanmingming.cn/tv/恩施文旅.png" group-title="湖北移动",恩施文旅
