@@ -37,6 +37,10 @@ http://111.48.34.237/PLTV/88888888/224/3221230447/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230455/1.m3u8
 #EXTINF:-1 tvg-id="cctv-4k" tvg-name="cctv-4k" tvg-logo="https://epg.iill.top/logo/cctv-4k.png" group-title="央视频道",CCTV-4K超高清
 http://111.48.34.237/PLTV/88888888/224/3221230518/1.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4欧洲
+http://111.48.34.237/PLTV/88888888/224/3221230530/1.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4美洲
+http://111.48.34.237/PLTV/88888888/224/3221230585/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV-央视台球.png" group-title="央视频道",央视台球
 http://111.48.34.237/PLTV/88888888/224/3221230173/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV-风云音乐.png" group-title="央视频道",风云音乐
