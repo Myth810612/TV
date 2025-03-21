@@ -141,12 +141,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.cn/tv/湖北生活.png" group-title="湖北地方",湖北生活
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
-#EXTINF:-1 tvg-name="恩施综合" tvg-logo="https://live.fanmingming.cn/tv/恩施综合.png" group-title="湖北移动",恩施综合
-https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
-#EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://live.fanmingming.cn/tv/恩施文旅.png" group-title="湖北移动",恩施文旅
-https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
-#EXTINF:-1 tvg-name="巴东综合" tvg-logo="https://live.fanmingming.cn/tv/巴东综合.png" group-title="湖北移动",巴东综合
-http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3522.m3u8?auth_key=4860354782-0-0-0bc026e554be331e11f9118a5507dbd6&extra_key=du5v5yekM-ggopdZ_sngtTZ65Uth9WDHICSAwr25ENDQIdlV3Yd2lHeLSlp5B8KLBoWG0nmJUj1QO75vWPg_oNJJLOYxRTOV57psEWQI4qKLGvWzL9PBysSluKuq-Ux9lJltJgQb5lWNdWOKYZiLcxSGG_008O5kq4mJC8KOxeo
 #EXTINF:-1 tvg-name="恩施综合" tvg-logo="https://live.fanmingming.cn/tv/恩施综合.png" group-title="湖北地方",恩施综合
 https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
 #EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://live.fanmingming.cn/tv/恩施文旅.png" group-title="湖北地方",恩施文旅
