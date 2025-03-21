@@ -29,7 +29,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226688/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226685/1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="湖北移动",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
