@@ -77,9 +77,9 @@ http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600098637
 http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv17/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视高清",CCTV17
 http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001810
-#EXTINF:-1 tvg-id="cctv-4k" tvg-name="cctv-4k" tvg-logo="https://epg.iill.top/logo/cctv-4k.png" group-title="央视频道",CCTV-4K超高清
+#EXTINF:-1 tvg-id="cctv-4k" tvg-name="cctv-4k" tvg-logo="https://epg.iill.top/logo/cctv-4k.png" group-title="央视高清",CCTV-4K超高清
 http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
-#EXTINF:-1 tvg-id="cctv-8k" tvg-name="cctv-8k" tvg-logo="https://epg.iill.top/logo/cctv-8k.png" group-title="央视频道",CCTV-8K超高清
+#EXTINF:-1 tvg-id="cctv-8k" tvg-name="cctv-8k" tvg-logo="https://epg.iill.top/logo/cctv-8k.png" group-title="央视高清",CCTV-8K超高清
 http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://assets.livednow.com/logo/CGTN记录.png" group-title="央视高清",CGTN记录
 http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
