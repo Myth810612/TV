@@ -78,7 +78,7 @@ http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600098637
 http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv17/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视高清",CCTV17
 http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001810
-#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://assets.livednow.com/logo/CGTN记录.png" group-title="地方频道",CGTN记录
+#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://assets.livednow.com/logo/CGTN记录.png" group-title="央视高清",CGTN记录
 http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600084781
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视高清",北京卫视
 http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002309
